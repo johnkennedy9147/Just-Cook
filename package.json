@@ -1,7 +1,6 @@
 {
   "name": "justcook",
   "version": "1.0.0",
-  "main": "src/index.js",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
