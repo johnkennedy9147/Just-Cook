@@ -16,7 +16,7 @@ Live reloading on [localhost](http://localhost:1234)
 
 ## Deployment
 
-Deployed at [Just Cook @ johnkennedy.tech](urltocome)
+Deployed at [Just Cook @ johnkennedy.tech](https://just-cook.johnkennedy.tech/)
 
 Hosted on [Netlify](https://netlify.com)
 
