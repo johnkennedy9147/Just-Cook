@@ -1,3 +1,13 @@
-export function App() {
-  return <h1 className="text-3xl font-bold underline">Inside React!</h1>;
-}
+import { Form } from './form';
+import { RecipeList } from './recipeList';
+import { DisplayRecipe } from './displayRecipe';
+
+export const App = () => {
+  return (
+    <>
+      <Form />
+      <RecipeList />
+      <DisplayRecipe />
+    </>
+  );
+};
