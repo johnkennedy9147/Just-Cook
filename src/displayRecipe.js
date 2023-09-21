@@ -43,7 +43,7 @@ export const DisplayRecipe = ({ selectedRecipeId }) => {
 
   if (selectedRecipeId) {
     return (
-      <article>
+      <article className='mb-3'>
         <header className='mb-3'>
           <h3 className='text-lg font-bold'>{mealDetails.strMeal}</h3>
         </header>
