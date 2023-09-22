@@ -27,7 +27,7 @@ export const Form = ({ setRecipeList }) => {
     <form onSubmit={searchForRecipesByIngredients}>
       <IngredientsComboBox setSelectedIngredients={setSelectedIngredients} />
       <DisplaySelectedIngredients selectedIngredients={selectedIngredients} />
-      <button type='submit' className='mb-3'>
+      <button type='submit' className='mb-3 px-3 py-1 rounded-full border'>
         Find Recipes
       </button>
     </form>
